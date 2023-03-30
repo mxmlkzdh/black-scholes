@@ -1,0 +1,1 @@
+# A C++ header-only library for the Black-Scholes-Merton model.
